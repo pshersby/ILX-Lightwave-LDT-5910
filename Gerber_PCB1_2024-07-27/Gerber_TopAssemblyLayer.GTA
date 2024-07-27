@@ -1,0 +1,22 @@
+G04 Layer: TopAssemblyLayer*
+G04 EasyEDA Pro v2.1.63.af010a1c.225d47, 2024-07-27 17:45:37*
+G04 Gerber Generator version 0.3*
+G04 Scale: 100 percent, Rotated: No, Reflected: No*
+G04 Dimensions in millimeters*
+G04 Leading zeros omitted, absolute positions, 3 integers and 5 decimals*
+%FSLAX35Y35*%
+%MOMM*%
+%ADD10C,0.254*%
+G75*
+
+
+G04 Rect Start*
+G54D10*
+G01X7277800Y9501000D02*
+G01X7277800Y10001000D01*
+G01X5777800D01*
+G01Y9501000D01*
+G01X7277800D01*
+G04 Rect End*
+
+M02*
